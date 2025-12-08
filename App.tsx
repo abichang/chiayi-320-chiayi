@@ -150,6 +150,16 @@ const App: React.FC = () => {
               >
                 {t.createdBy}
               </a> 
+              {' 和 '}
+              <a
+                href="https://portaly.cc/abichangtw"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Abi Chang personal site"
+                className="font-bold text-orange-700 hover:text-orange-900 hover:underline transition-colors focus:outline-none focus:ring-2 focus:ring-orange-500 rounded px-1"
+              >
+                Abi Chang
+              </a>
               {t.createdSuffix}
             </p>
             <p className="text-stone-600 text-base">
