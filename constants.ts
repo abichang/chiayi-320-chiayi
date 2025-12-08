@@ -279,6 +279,16 @@ export const EXPO_DATA: ExpoEvent[] = [
     id: generateId(),
     venueGroup: '嘉私選物',
     locationDetail: '嘉義舊監獄',
+    title: '市集｜320＋1光陰的故事-時光市集',
+    type: EventType.Market,
+    dateDisplay: '12/13 (六)',
+    dateSort: '2025-12-13',
+    link: 'https://www.facebook.com/share/1ZsgEeVQ6S/',
+  },
+  {
+    id: generateId(),
+    venueGroup: '嘉私選物',
+    locationDetail: '嘉義舊監獄',
     title: '走讀-嘉物事｜宜居裡的日常風景',
     type: EventType.Tour,
     dateDisplay: '12/21 & 12/27',
@@ -337,6 +347,7 @@ export const EXPO_DATA: ExpoEvent[] = [
     type: EventType.Workshop,
     dateDisplay: '12/13',
     dateSort: '2025-12-13',
+    isFull: true,
     link: 'https://reurl.cc/DOWrYR',
   },
   {
@@ -347,6 +358,7 @@ export const EXPO_DATA: ExpoEvent[] = [
     type: EventType.Workshop,
     dateDisplay: '12/14',
     dateSort: '2025-12-14',
+    isFull: true,
     link: 'https://reurl.cc/x3zVeL',
   },
   {
@@ -380,6 +392,7 @@ export const EXPO_DATA: ExpoEvent[] = [
     type: EventType.Tour,
     dateDisplay: '12/16, 23',
     dateSort: '2025-12-16',
+    isFull: true,
     link: 'https://reurl.cc/3bOmmR',
     tags: ['平日場']
   },
@@ -402,6 +415,7 @@ export const EXPO_DATA: ExpoEvent[] = [
     type: EventType.Tour,
     dateDisplay: '12/18, 25',
     dateSort: '2025-12-18',
+    isFull: true,
     link: 'https://reurl.cc/3bOmmR',
     tags: ['平日場']
   },
