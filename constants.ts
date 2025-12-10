@@ -668,7 +668,7 @@ export const EXPO_DATA: ExpoEvent[] = [
             '技法：葉脈壓印技法\n' +
             '金工師：銀銀美戴指 Hank老師 （20年資歷）\n\n' +
             '📍 現場開放人數：15人\n' +
-            '📡 同步於 Facebook 進行直播' +
+            '📡 同步於 Facebook 進行直播\n' +
             '詳情請追蹤 IG @next_georg_',
         link: 'https://www.facebook.com/share/p/1GsY6LdeGd/',
         social: {
