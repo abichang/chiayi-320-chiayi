@@ -152,7 +152,7 @@ const App: React.FC = () => {
               </a> 
               {' 和 '}
               <a
-                href="https://portaly.cc/abichangtw"
+                href="https://abi.tw"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Abi Chang personal site"
